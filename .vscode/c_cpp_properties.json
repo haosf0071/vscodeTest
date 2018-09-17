@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}",
+                "D:\\mingw-w64\\MinGW-w64\\mingw64\\include"
+            ]   
+        }
+    ],
+    "version": 4
+}
